@@ -5,7 +5,7 @@
 ![](https://github.com/StarryCamile/StarryCamile/blob/main/images/java.png)
 ![](https://github.com/StarryCamile/StarryCamile/blob/main/images/python.png)  
 
-![](https://github-readme-stats.vercel.app/api?username=StarryCamile&show_icons=true&theme=transparent&include_all_commits=true&count_private=true)      
+![](https://github-readme-stats.vercel.app/api?username=StarryCamile&show_icons=true&theme=transparent&include_all_commits=true&count_private=true) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StarryCamile&layout=compact&theme=tokyonight)    
 #### 经常开发的项目 ~
 ![MCSL2 Repository](https://github-readme-stats.vercel.app/api/pin/?username=MCSLTeam&repo=MCSL2)
